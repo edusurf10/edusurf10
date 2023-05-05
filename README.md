@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="https://github.com/edusurf10">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=edusurf10&count_private=true&theme=dracula&show_icons=true&locale=pt-BR&include_all_commits=true" />
+</a>
+<a href="https://github.com/edusurf10">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusurf10&layout=compact&theme=dracula&locale=pt-BR&langs_count=16" />
+</a>
 
-<!--
-**edusurf10/edusurf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline-block;"><br>
+  <img align="center" height="30" width="30" alt="Luiz_Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img align="center" height="30" width="30" alt="Luiz_React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="30" width="30" alt="Luiz_PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.instagram.com/luiz.eduardo.duh/" target="_blank" >
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+  </a>
+</div>

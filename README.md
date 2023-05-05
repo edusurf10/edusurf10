@@ -1,8 +1,8 @@
 <a href="https://github.com/edusurf10">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=edusurf10&count_private=true&theme=dracula&show_icons=true&locale=pt-BR&include_all_commits=true" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=edusurf10&count_private=true&theme=dracula&show_icons=true&locale=pt-BR&include_all_commits=true" />
 </a>
 <a href="https://github.com/edusurf10">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusurf10&layout=compact&theme=dracula&locale=pt-BR&langs_count=16" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusurf10&layout=compact&theme=dracula&locale=pt-BR&langs_count=16" />
 </a>
 
 <div style="display: inline-block;"><br>

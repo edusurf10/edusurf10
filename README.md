@@ -1,3 +1,7 @@
+<h1>
+  Olá, me chamo de Luiz Eduardo e sou CTO da Banko Pay.
+</h1>
+
 <a href="https://github.com/edusurf10">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=edusurf10&count_private=true&theme=dracula&show_icons=true&locale=pt-BR&include_all_commits=true" />
 </a>
@@ -19,4 +23,3 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/edusurf10/edusurf10/blob/output/github-contribution-grid-snake.svg)

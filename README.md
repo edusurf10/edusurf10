@@ -1,5 +1,5 @@
 <h1>
-  Olá, me chamo de Luiz Eduardo e sou CTO da Banko Pay.
+  Olá, me chamo Luiz Eduardo, fique a vontade!
 </h1>
 
 <a href="https://github.com/edusurf10">
